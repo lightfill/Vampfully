@@ -1,5 +1,6 @@
-### ⚔️ Sharp like a blade, with powers like a mage.
-garbage lua & css "programmer".
+- 💻 calamityyy / lua & css programmer / VSCode
+- 🔭 My current project is BDSnips (github.com/calamitiess/BDSnips).
+- 📫 Contact me @ calamityyy#3571 or @JinsXVI on twitter.
 <!--
 
 
