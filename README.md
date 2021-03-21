@@ -1,8 +1,8 @@
 ### Ryugenn
 - 👋 Hi, I'm ryugenn, I'm a 13 year old programmer.
-- 💻 I am fluent in Lua & CSS.
+- 💻 I program in Lua & CSS.
 - 🔭 My current project is [DiscordSnips/DiscordSnippets](https://github.com/DiscordSnips)
-- ⚡ Facts about me: I like programming, entertaining myself by watching TV, anime, or Youtube and doing other things with my time.
+- ⚡ Facts about me: I like wasting my time programming stupid Discord snippets, watching TV, anime, or Youtube and doing other things.
 - 📫 Need to contact me? [@ryugennn](https://twitter.com/ryugennn) or ryugenn#3571
 <!--
 
