@@ -1,16 +1,15 @@
-# Hi! I'm Ryonfill.
+# Hi! I'm Ryon.
 - I'm 13, B).
 
 # Personal Links
 - Profile - [Ryonfill](https://github.com/Ryonfill)
 - Company/Organization - [DiscordAddons](https://github.com/DiscordAddons)
 - Twitter - [@Ryonfill](https://twitter.com/Ryonfill)
-- Discord - `Ryonfill#3571`
+- Discord - `ryonfills#3571`
 
 # Interests
 - Anime
 - Programming
-- The 100 (television show)
 
 # Languages
 - Lua
@@ -31,7 +30,7 @@
 
 # Personal Repos
 - [iyplugins](https://github.com/Ryonss/iyplugins) - `Private and discontinued`
-- [LuaS (bad name, yes ik)](https://github.com/Ryonss/LuaS) - `Private and discontinued`
+- [LuaS](https://github.com/Ryonss/LuaS) - `Private and discontinued`
 - [BDSnips](https://github.com/Ryonss/BDSnips) - `Discontinued and archived`
 
 # Special Repos
