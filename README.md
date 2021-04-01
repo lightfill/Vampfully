@@ -8,8 +8,8 @@ Links
 
 Organizations
 ------------ 
-- [Vacudons](https://github.com/Vacudons)
-- [Discord Appearances](https://github.com/Discord-Appearances)
+- [BD Fragments](https://github.com/BDFragments)
+- [BD Styles](https://github.com/BDStyles)
 
 Repos
 ------------
