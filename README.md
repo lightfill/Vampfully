@@ -2,16 +2,16 @@
 
 **I'm a 13 year old programmer who enjoys coding.**
 
-- 🛠️ I'm currently working on [Moonray](https://github.com/BDStyles/moonray), [Hydrite](https://github.com/BDStyles/hydrite), and [Custom User Activity Backgrounds](https://github.com/BDStyles/custom-user-activity-backgrounds).
+- 🛠️ I'm currently working on [Moonray](https://github.com/BDStyles/moonray), [Hydrite](https://github.com/BDStyles/hydrite), [Cycla X Reborn](https://github.com/BDStyles/Cycla-X-Reborn), and [Custom User Activity Backgrounds](https://github.com/BDStyles/custom-user-activity-backgrounds).
 - ✍️ I'm currently learning **CSS**.
 - 🤝 I'm willing to get help from anyone who has experience and knowledge about **CSS**.
-- 🔮 My future project (s) are: none.
+- 🔮 My future project (s) are: Spiral Void/Spiral Abyss. 👀
 - 📫 You can reach me using the links below or message me on discord, `vampclipse#0525`.
 
 **Links**
 ![image](https://media.discordapp.net/attachments/821426277709774881/828083264178487346/github.png) | ![image](https://media.discordapp.net/attachments/821426277709774881/828086206969020486/twitter.png) | ![image](https://media.discordapp.net/attachments/821426277709774881/828100070868123698/discord.png) |
 ------------ | ------------ | ------------
-[GitHub](https://github.com/ryonCSS) | [Twitter](https://twitter.com/ryonsharp) | [Discord Community](https://discord.gg/5hqReEDFJp)
+[GitHub](https://github.com/vampclipse) | [Twitter](https://twitter.com/vampclipse) | [Discord Community](https://discord.gg/5hqReEDFJp)
 
 
 **Organizations**
