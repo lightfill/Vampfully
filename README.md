@@ -5,6 +5,7 @@
 - 13 years old.
 ! Programmer and intermediate theme developer.
 # I am working on Cyancord, a deep blue cyan theme coded and built with support and compatibility for BetterDiscord.
+@ 500+ commits in April 2021, 80+ commits in May.
 * And yes, I did copy jew's README.md (go check it out though, https://github.com/jewdev/jewdev).
 ```
 ![image](https://camo.githubusercontent.com/95604fb0e202fbab149121b7c01d2705485917e3632433d10740f8235dd30fd4/68747470733a2f2f692e696d6775722e636f6d2f344d37495777502e676966)
