@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=ryonnn)
   
-[![my top languages.](https://github-readme-stats.vercel.app/api/top-langs/?username=copywheeI&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![my top languages.](https://github-readme-stats.vercel.app/api/top-langs/?username=kamuicontrol&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- content | content
 
